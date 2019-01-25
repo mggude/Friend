@@ -7,3 +7,5 @@ Friend Finder application is meant to simulate a simple dating app. The applicat
 
 Demo
 Friend Finder is deployed to Heroku. [Click here to view.](https://shielded-refuge-63421.herokuapp.com/)
+
+Heroku didn't like the original repo[Click here to view that.](https://github.com/mggude/Friend-Finder)
